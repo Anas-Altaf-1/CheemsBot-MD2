@@ -4,7 +4,7 @@
 //pls give credit
 //no credit? i will take action immediately
 //© 2022 Xeon Bot Inc. Doge Bot 
-//Thank you to Lord Buddha, Family and Myself
+//Thank you to Allah Almighty, Family and Myself
 //════════════════════════════//
 
 const fs = require('fs')
